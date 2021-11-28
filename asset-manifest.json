@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/codingwebwisers/TextUtils.git/static/css/main.03e877a9.chunk.css",
+    "main.js": "/codingwebwisers/TextUtils.git/static/js/main.4a01dd9d.chunk.js",
+    "main.js.map": "/codingwebwisers/TextUtils.git/static/js/main.4a01dd9d.chunk.js.map",
+    "runtime-main.js": "/codingwebwisers/TextUtils.git/static/js/runtime-main.0f9a5a8b.js",
+    "runtime-main.js.map": "/codingwebwisers/TextUtils.git/static/js/runtime-main.0f9a5a8b.js.map",
+    "static/js/2.55381dd1.chunk.js": "/codingwebwisers/TextUtils.git/static/js/2.55381dd1.chunk.js",
+    "static/js/2.55381dd1.chunk.js.map": "/codingwebwisers/TextUtils.git/static/js/2.55381dd1.chunk.js.map",
+    "static/js/3.1d4330fe.chunk.js": "/codingwebwisers/TextUtils.git/static/js/3.1d4330fe.chunk.js",
+    "static/js/3.1d4330fe.chunk.js.map": "/codingwebwisers/TextUtils.git/static/js/3.1d4330fe.chunk.js.map",
+    "index.html": "/codingwebwisers/TextUtils.git/index.html",
+    "static/css/main.03e877a9.chunk.css.map": "/codingwebwisers/TextUtils.git/static/css/main.03e877a9.chunk.css.map",
+    "static/js/2.55381dd1.chunk.js.LICENSE.txt": "/codingwebwisers/TextUtils.git/static/js/2.55381dd1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f9a5a8b.js",
+    "static/js/2.55381dd1.chunk.js",
+    "static/css/main.03e877a9.chunk.css",
+    "static/js/main.4a01dd9d.chunk.js"
+  ]
+}
